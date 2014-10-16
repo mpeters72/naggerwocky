@@ -1,0 +1,4 @@
+naggerwocky
+===========
+
+Nagios jabber integration
