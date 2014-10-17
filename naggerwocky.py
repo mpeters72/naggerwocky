@@ -386,7 +386,7 @@ class Naggerwocky:
 
         try:
             if msg.lower().replace(' ', '') == "help":
-                msg = "Hi! I'm the SOC Nagios Chat Bot. You can use and abuse me by sending the following commands:\n\n \
+                msg = "Hi! I'm the Naggerwocky Nagios Chat Bot. You can use and abuse me by sending the following commands:\n\n \
               status - Display the current overall alert status\n \
               critical - Display the current critical alerts\n \
               warn - Display the current warning alerts\n \
